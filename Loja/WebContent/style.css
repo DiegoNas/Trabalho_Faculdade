@@ -1,0 +1,151 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@1,300&display=swap');
+
+body{
+	
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 1em;
+	font-weight: 400;
+	
+}
+
+
+
+h1{
+	
+	color:#66bbff;
+	
+}
+
+h4{
+	
+	color:#002060;
+	
+}
+
+
+h3{
+	
+	color:#8497B0;
+	
+}
+
+
+
+
+h5{
+	
+	color:#A9D18E;
+	
+}
+
+
+.Botao1 {
+	
+	text-decoration: none;
+	background-color: #66bbff;
+	padding:  5px 10px 5px 10px;
+	color: #fff;
+	font-size: 1.2em;
+	font-weight: 700;
+	border-radius: 20px;
+	border: 0;
+	cursor: pointer;
+}	
+	
+.Botao2 {
+	
+	text-decoration: none;
+	background-color: #66bbff;
+	padding:  5px 10px 5px 10px;
+	color: #fff;
+	font-size: 1.2em;
+	font-weight: 700;
+	border-radius: 20px;
+	border: 0;
+	cursor: pointer;
+}	
+	
+	
+.Botao3 {
+	
+	text-decoration: none;
+	background-color: #56224F;
+	padding:  5px 5px 5px 10px;
+	color: #fff;
+	font-size: 1.2em;
+	font-weight: 700;
+	border-radius: 20px;
+	border: 0;
+	cursor: pointer;
+}	
+
+.Botao4 {
+	
+	text-decoration: none;
+	background-color: #66bbff;
+	padding:  5px 10px 5px 10px;
+	color: #fff;
+	font-size: 1.2em;
+	font-weight: 700;
+	border-radius: 20px;
+	border: 0;
+	cursor: pointer;
+}	
+
+
+.CAIXA{
+	width: 320px;
+	padding: 5px;
+	margin-bottom:10px ;
+	border: 1px solid #66bbff;
+	border-radius: 5px;
+			
+}
+
+.caixa2{
+	padding: 5px;
+	margin-bottom:10px ;
+	border: 1px solid #66bbff;
+	border-radius: 5px;
+		
+}
+
+
+
+#tabela{
+	
+	margin-top: 30px;
+	margin-bottom: 30px;
+	border-collapse: collapse ;
+
+}
+
+#tabela th {
+	
+	border: 1px solid #ddd;
+	padding: 10px;
+	text-align: center;
+	background-color:  #66bbff;
+	color: #fff;
+}
+
+
+#tabela td {
+	
+	border: 1px solid #ddd;
+	padding: 10px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+	
